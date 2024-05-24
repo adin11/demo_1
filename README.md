@@ -1,4 +1,4 @@
 # demo_1
 This is my first Repository .
 <br>
-Author : Adin Raja
+Author : Adin Raja (B.Tech in I.T)
